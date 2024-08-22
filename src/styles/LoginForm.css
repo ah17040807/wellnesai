@@ -1,0 +1,28 @@
+/* src/styles/LoginForm.css */
+
+.form-group label {
+    font-weight: bold;
+}
+
+.form-control {
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+.form-control:focus {
+    border-color: #4CAF50;
+    box-shadow: 0 0 5px rgba(76, 175, 80, 0.5);
+}
+
+.btn-primary {
+    background-color: #4CAF50;
+    border-color: #4CAF50;
+    font-weight: bold;
+    border-radius: 5px;
+    transition: background-color 0.3s, transform 0.3s;
+}
+
+.btn-primary:hover {
+    background-color: #45a049;
+    transform: translateY(-2px);
+}
