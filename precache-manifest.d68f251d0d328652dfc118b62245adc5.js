@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5f58d354bd610ea735032bb366ba8fd7",
+    "revision": "59143f709ca8199ab49eae62fb7b6f84",
     "url": "/wellnesai/index.html"
   },
   {
