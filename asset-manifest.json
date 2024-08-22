@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/wellnesai/static/css/main.a1d975a9.chunk.css",
-    "main.js": "/wellnesai/static/js/main.b6e719c5.chunk.js",
-    "main.js.map": "/wellnesai/static/js/main.b6e719c5.chunk.js.map",
-    "runtime~main.js": "/wellnesai/static/js/runtime~main.ba1e4aa7.js",
-    "runtime~main.js.map": "/wellnesai/static/js/runtime~main.ba1e4aa7.js.map",
-    "static/js/2.33aeceef.chunk.js": "/wellnesai/static/js/2.33aeceef.chunk.js",
-    "static/js/2.33aeceef.chunk.js.map": "/wellnesai/static/js/2.33aeceef.chunk.js.map",
-    "static/js/3.9c941d3c.chunk.js": "/wellnesai/static/js/3.9c941d3c.chunk.js",
-    "static/js/3.9c941d3c.chunk.js.map": "/wellnesai/static/js/3.9c941d3c.chunk.js.map",
+    "main.js": "/wellnesai/static/js/main.8c2910d9.chunk.js",
+    "main.js.map": "/wellnesai/static/js/main.8c2910d9.chunk.js.map",
+    "runtime~main.js": "/wellnesai/static/js/runtime~main.6dec47cb.js",
+    "runtime~main.js.map": "/wellnesai/static/js/runtime~main.6dec47cb.js.map",
+    "static/js/2.7355aab0.chunk.js": "/wellnesai/static/js/2.7355aab0.chunk.js",
+    "static/js/2.7355aab0.chunk.js.map": "/wellnesai/static/js/2.7355aab0.chunk.js.map",
+    "static/js/3.bd0f349a.chunk.js": "/wellnesai/static/js/3.bd0f349a.chunk.js",
+    "static/js/3.bd0f349a.chunk.js.map": "/wellnesai/static/js/3.bd0f349a.chunk.js.map",
     "index.html": "/wellnesai/index.html",
-    "precache-manifest.d68f251d0d328652dfc118b62245adc5.js": "/wellnesai/precache-manifest.d68f251d0d328652dfc118b62245adc5.js",
+    "precache-manifest.6d786d30cbd0e44108a40a8ee6721d5a.js": "/wellnesai/precache-manifest.6d786d30cbd0e44108a40a8ee6721d5a.js",
     "service-worker.js": "/wellnesai/service-worker.js",
     "static/css/main.a1d975a9.chunk.css.map": "/wellnesai/static/css/main.a1d975a9.chunk.css.map"
   }
