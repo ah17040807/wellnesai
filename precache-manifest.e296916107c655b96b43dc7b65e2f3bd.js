@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f6f38a4e523ac2d2da231d7484d9855a",
+    "revision": "0e6b0404617c3da33ce67e9ab6ae490f",
     "url": "/wellnesai/index.html"
   },
   {
-    "revision": "399abe006c57532165e0",
+    "revision": "cc0bfbe46670dae4d9f1",
     "url": "/wellnesai/static/css/main.a1d975a9.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/wellnesai/static/js/3.bd0f349a.chunk.js"
   },
   {
-    "revision": "399abe006c57532165e0",
-    "url": "/wellnesai/static/js/main.8c2910d9.chunk.js"
+    "revision": "cc0bfbe46670dae4d9f1",
+    "url": "/wellnesai/static/js/main.38b51e89.chunk.js"
   },
   {
     "revision": "c876b6c51ac1d4a2a4b5",
