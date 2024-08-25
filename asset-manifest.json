@@ -1,17 +1,15 @@
 {
   "files": {
-    "main.css": "/wellnesai/static/css/main.e290c2f2.chunk.css",
-    "main.js": "/wellnesai/static/js/main.6b4de93a.chunk.js",
-    "main.js.map": "/wellnesai/static/js/main.6b4de93a.chunk.js.map",
-    "runtime~main.js": "/wellnesai/static/js/runtime~main.e0574016.js",
-    "runtime~main.js.map": "/wellnesai/static/js/runtime~main.e0574016.js.map",
-    "static/js/2.2fb0f56e.chunk.js": "/wellnesai/static/js/2.2fb0f56e.chunk.js",
-    "static/js/2.2fb0f56e.chunk.js.map": "/wellnesai/static/js/2.2fb0f56e.chunk.js.map",
-    "static/js/3.62d5139d.chunk.js": "/wellnesai/static/js/3.62d5139d.chunk.js",
-    "static/js/3.62d5139d.chunk.js.map": "/wellnesai/static/js/3.62d5139d.chunk.js.map",
+    "main.css": "/wellnesai/static/css/main.4f6dca50.css",
+    "main.js": "/wellnesai/static/js/main.37fabcdc.js",
+    "static/js/453.8ab44547.chunk.js": "/wellnesai/static/js/453.8ab44547.chunk.js",
     "index.html": "/wellnesai/index.html",
-    "precache-manifest.3c317a75e199c029b962e0d771b5f80d.js": "/wellnesai/precache-manifest.3c317a75e199c029b962e0d771b5f80d.js",
-    "service-worker.js": "/wellnesai/service-worker.js",
-    "static/css/main.e290c2f2.chunk.css.map": "/wellnesai/static/css/main.e290c2f2.chunk.css.map"
-  }
+    "main.4f6dca50.css.map": "/wellnesai/static/css/main.4f6dca50.css.map",
+    "main.37fabcdc.js.map": "/wellnesai/static/js/main.37fabcdc.js.map",
+    "453.8ab44547.chunk.js.map": "/wellnesai/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f6dca50.css",
+    "static/js/main.37fabcdc.js"
+  ]
 }
